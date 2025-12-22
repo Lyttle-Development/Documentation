@@ -1,5 +1,9 @@
 ---
-title: LyttleNametag
+title: Introduction
 description: A Minecraft plugin for managing and customizing player nametags.
-index: false
+order: 9999
 ---
+
+# LyttleNametag
+
+Coming Soon...

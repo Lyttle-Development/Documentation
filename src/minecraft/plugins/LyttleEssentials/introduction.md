@@ -1,5 +1,9 @@
 ---
-title: LyttleEssentials
+title: Introduction
 description: A Minecraft plugin providing essential features and utilities for server management.
-index: false
+order: 9999
 ---
+
+# LyttleEssentials
+
+Coming Soon...
