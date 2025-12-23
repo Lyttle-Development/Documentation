@@ -1,4 +1,10 @@
-### Installation
+---
+lang: en-US
+title: LyttleScoreboardEconomy | Installation
+description: LyttleScoreboardEconomy installation page.
+---
+
+## Installation
 
 #### Quick Start
 
