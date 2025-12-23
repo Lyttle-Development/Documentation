@@ -1,6 +1,6 @@
 ---
 lang: en-US
-title: LyttleNametag | FAQ
+title: Frequently Asked Questions
 description: LyttleNametag FAQ page.
 ---
 

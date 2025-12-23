@@ -1,6 +1,6 @@
 ---
 lang: en-US
-title: LyttleScoreboardEconomy | FAQ
+title: Frequently Asked Questions
 description: LyttleScoreboardEconomy FAQ page.
 ---
 

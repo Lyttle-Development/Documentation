@@ -1,6 +1,6 @@
 ---
 lang: en-US
-title: LyttleScoreboardEconomy | Commands
+title: Commands
 description: LyttleScoreboardEconomy commands page.
 ---
 

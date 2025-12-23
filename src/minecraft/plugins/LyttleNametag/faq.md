@@ -1,6 +1,6 @@
 ---
 lang: en-US
-title: LyttleNametag | FAQ
+title: Frequently Asked Questions
 description: LyttleNametag FAQ page.
 ---
 
@@ -12,7 +12,7 @@ Frequently asked questions.
 
 **How does LyttleNametag work?**
 
-The plugin replaces the vanilla nametag with a display entity, which is riding the player. This allows us to have advanced colors, multiple lines and placeholder support. 
+The plugin replaces the vanilla nametag with a display entity, which is riding the player. This allows us to have advanced colors, multiple lines and placeholder support.
 
 > To learn more about display entities, [click here](https://minecraft.wiki/w/Display).
 

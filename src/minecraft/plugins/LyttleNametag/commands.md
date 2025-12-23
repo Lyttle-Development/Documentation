@@ -1,6 +1,6 @@
 ---
 lang: en-US
-title: LyttleNametag | Commands
+title: Commands
 description: LyttleNametag commands page.
 ---
 

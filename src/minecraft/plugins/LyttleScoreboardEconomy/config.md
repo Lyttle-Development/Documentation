@@ -1,10 +1,11 @@
 ---
 lang: en-US
-title: LyttleScoreboardEconomy | Config
+title: Config
 description: LyttleScoreboardEconomy config page.
 ---
 
 ## Config
+
 All the options in the config, with explanation.
 
 ---

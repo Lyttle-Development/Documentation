@@ -1,20 +1,22 @@
 ---
 lang: en-US
-title: LyttleNametag | How to guides
+title: How to guides
 description: LyttleNametag how to guides page.
 ---
 
 ## How to guides
+
 How to ... guides for LyttleNametag.
 
 ---
 
 **How to use placeholders**
 
-How to use placeholders in nametags. 
+How to use placeholders in nametags.
 LyttleNametag has build in placeholders and supports [PlaceholderAPI](https://hangar.papermc.io/HelpChat/PlaceholderAPI).
 
 Build in placeholders:
+
 - `<PLAYER>`
 - `{player_health}`
 
@@ -26,7 +28,7 @@ If you want to use [PlaceholderAPI](https://hangar.papermc.io/HelpChat/Placehold
 ---
 **How to color format**
 
-LyttleNametag uses the [MiniMessage](https://docs.advntr.dev/minimessage/) format. If you dont know how  to use [MiniMessage](https://docs.advntr.dev/minimessage/), use any of the following:
+LyttleNametag uses the [MiniMessage](https://docs.advntr.dev/minimessage/) format. If you dont know how to use [MiniMessage](https://docs.advntr.dev/minimessage/), use any of the following:
 
 - Read the format [here](https://docs.advntr.dev/minimessage/format.html).
 - Use the online web editor/viewer [here](https://webui.advntr.dev).
@@ -41,6 +43,6 @@ For almost most uses, keep it on default. This will keep things precise, while (
 ---
 **How to choose the best view distance**
 
-The view distance decides from how far away (in blocks) you can see the nametag. If a player goes further then the value, the nametag will disappear for that player. The nametag will not be shown through blocks, even if unshifted (this will change in the future). 
+The view distance decides from how far away (in blocks) you can see the nametag. If a player goes further then the value, the nametag will disappear for that player. The nametag will not be shown through blocks, even if unshifted (this will change in the future).
 
 We dont recommend to go above 3 digits (Example: 100), as this could lead to weird bugs. For most people, the default value (64) is enough, but 32 is also a very good option.

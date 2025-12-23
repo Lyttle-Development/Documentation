@@ -1,6 +1,6 @@
 ---
 lang: en-US
-title: LyttleNametag | How to guides
+title: How to guides
 description: LyttleNametag how to guides page.
 ---
 
