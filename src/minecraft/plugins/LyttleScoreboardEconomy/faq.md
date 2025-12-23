@@ -1,3 +1,9 @@
+---
+lang: en-US
+title: LyttleScoreboardEconomy | FAQ
+description: LyttleScoreboardEconomy FAQ page.
+---
+
 ## FAQ
 
 Frequently asked questions about LyttleScoreboardEconomy.
