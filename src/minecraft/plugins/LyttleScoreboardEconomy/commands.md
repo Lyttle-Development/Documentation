@@ -1,3 +1,9 @@
+---
+lang: en-US
+title: LyttleScoreboardEconomy | Commands
+description: LyttleScoreboardEconomy commands page.
+---
+
 ## Commands
 
 All of the commands, with explanation.
