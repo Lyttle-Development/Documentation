@@ -10,7 +10,7 @@ All the options in the config, with explanation.
 
 ---
 
-**Nametag**
+#### Nametag
 
 All the lines for your custom nametag, supports [**PlaceholderAPI**](https://hangar.papermc.io/HelpChat/PlaceholderAPI).
 
@@ -24,7 +24,7 @@ All the lines for your custom nametag, supports [**PlaceholderAPI**](https://han
       <red>🖤 %math_0:0_({player_health})%<dark_grey>/20
 
 ---
-**Interval**
+#### Interval
 
 Interval in seconds for updating placeholders.
 
@@ -34,7 +34,7 @@ Interval in seconds for updating placeholders.
 
    
 ---
-**View Distance**
+#### View Distance
 
 The maximum distance at which the nametag will be visible, in blocks.
 
@@ -43,7 +43,7 @@ The maximum distance at which the nametag will be visible, in blocks.
     view_distance: 64
 
 ---
-**Config Version**
+#### Config Version
 
 Do not change this value!
 
