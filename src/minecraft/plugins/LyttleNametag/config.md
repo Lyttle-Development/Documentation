@@ -10,6 +10,10 @@ All the options in the config, with explanation.
 
 ---
 
+### Nametag settings
+
+---
+
 #### Nametag
 
 All the lines for your custom nametag, supports [**PlaceholderAPI**](https://hangar.papermc.io/HelpChat/PlaceholderAPI).
@@ -43,6 +47,11 @@ The maximum distance at which the nametag will be visible, in blocks.
     view_distance: 64
 
 ---
+
+### Internal values
+
+---
+
 #### Config Version
 
 Do not change this value!
