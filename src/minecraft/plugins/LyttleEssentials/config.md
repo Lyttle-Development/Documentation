@@ -10,6 +10,9 @@ All the options in the config, with explanation.
 
 ---
 
+### Invoice / economy setup
+
+---
 
 #### Teleport to home
 
@@ -77,6 +80,11 @@ The price for teleporting to spawn, this uses the default [Vault](https://www.sp
       increase: false
 
 ---
+
+### Internal values
+
+---
+
 #### Config Version
 
 Do not change this value!
