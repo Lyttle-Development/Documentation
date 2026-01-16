@@ -1,3 +1,9 @@
+---
+lang: en-US
+title: Config
+description: The config from the LyttleGravestone plugin, with explanation.
+---
+
 ## Config
 
 All config options, with explanation.
