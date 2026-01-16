@@ -10,6 +10,10 @@ All the options in the config, with explanation.
 
 ---
 
+### Scoreboard settings
+
+---
+
 #### Scoreboard Objective
 
 The Minecraft scoreboard objective used for the economy.
@@ -17,6 +21,10 @@ The Minecraft scoreboard objective used for the economy.
 *Default value:*
 
     scoreboard_objective: "tokens"
+
+---
+
+### Internal values
 
 ---
 
