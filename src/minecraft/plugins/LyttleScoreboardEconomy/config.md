@@ -10,7 +10,7 @@ All the options in the config, with explanation.
 
 ---
 
-**Scoreboard Objective**
+#### Scoreboard Objective
 
 The Minecraft scoreboard objective used for the economy.
 
@@ -20,6 +20,6 @@ The Minecraft scoreboard objective used for the economy.
 
 ---
 
-**Config Version**
+#### Config Version
 
 A internal value that holds the config version. **DO NOT CHANGE THIS VALUE!**
