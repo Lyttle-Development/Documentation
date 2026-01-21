@@ -10,8 +10,11 @@ All the options in the config, with explanation.
 
 ---
 
+### Invoice / economy setup
 
-**Teleport to home**
+---
+
+#### Teleport to home
 
 The price of teleporting to a home, this uses the default [Vault](https://www.spigotmc.org/resources/vault.34315/) currency. If the increase option is enabled, the price will increase every time with the following formula:
 `times_teleported X price`.
@@ -24,7 +27,7 @@ The price of teleporting to a home, this uses the default [Vault](https://www.sp
       increase: false
 
 ---
-**Create warp**
+#### Create warp
 
 The price to create a warp, this uses the default [Vault](https://www.spigotmc.org/resources/vault.34315/) currency. If the increase option is enabled, the price will increase every time with the following formula:
 `times_teleported X price`.
@@ -38,7 +41,7 @@ The price to create a warp, this uses the default [Vault](https://www.spigotmc.o
 
    
 ---
-**Teleport to warp**
+#### Teleport to warp
 
 The price for teleporting to a warp, this uses the default [Vault](https://www.spigotmc.org/resources/vault.34315/) currency. If the increase option is enabled, the price will increase every time with the following formula:
 `times_teleported X price`.
@@ -51,7 +54,7 @@ The price for teleporting to a warp, this uses the default [Vault](https://www.s
       increase: false
 
 ---
-**Teleport to player**
+#### Teleport to player
 
 The price for teleporting to another player using /tpask, this uses the default [Vault](https://www.spigotmc.org/resources/vault.34315/) currency. If the increase option is enabled, the price will increase every time with the following formula:
 `times_teleported X price`.
@@ -64,7 +67,7 @@ The price for teleporting to another player using /tpask, this uses the default 
       increase: true
 
 ---
-**Teleport to spawn**
+#### Teleport to spawn
 
 The price for teleporting to spawn, this uses the default [Vault](https://www.spigotmc.org/resources/vault.34315/) currency. If the increase option is enabled, the price will increase every time with the following formula:
 `times_teleported X price`.
@@ -77,7 +80,12 @@ The price for teleporting to spawn, this uses the default [Vault](https://www.sp
       increase: false
 
 ---
-**Config Version**
+
+### Internal values
+
+---
+
+#### Config Version
 
 Do not change this value!
 
